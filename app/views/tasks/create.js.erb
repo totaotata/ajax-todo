@@ -1,0 +1,4 @@
+document.getElementById('task').querySelectorAll('ul')[0].insertAdjacentHTML("beforeend", "<%= j render 'task', task: @task %>")
+
+$("li#<%=@task.id%>").hide();
+$("li#<%=@task.id%>").slideDown();

@@ -1,0 +1,45 @@
+<h1>My Todo List app</h1>
+
+<h2>My tasks</h2>
+
+<div id="task">
+	<ul>
+		<% @tasks.each do |task| %>
+			<%= render 'task', task: task %>
+		<% end %>
+	</ul>
+</div>
+
+<h2>New task</h2>
+
+<%= form_tag(tasks_path, method: :post, class: 'form', remote: true) do %>
+Task : <br>
+<%= text_field_tag :title %>
+<%= submit_tag "Add", :name => 'commit'  %>
+<% end %>
+
+<style>
+
+
+	li{
+		margin-top:10px;
+		list-style: none;
+		line-height: 20px;
+		height: 40px;
+		display: block;
+		width: 200px;
+	}
+	
+	#task a{
+		text-decoration: none;
+		color:#2c3e50;
+		border: solid 1px;
+		padding: 10px;
+	}
+	
+	#task .done a{
+		color : #ecf0f1;
+		text-decoration: line-through;
+	}
+
+</style>

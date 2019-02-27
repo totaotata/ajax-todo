@@ -1,0 +1,8 @@
+<%if task.status%>
+	<li id="<%=task.id%>" class="done">
+<%else%>
+	<li id="<%=task.id%>">
+<%end%>
+
+	<%=link_to task.title, task_path(task.id), :method=> :put, remote:true %>
+</li>
