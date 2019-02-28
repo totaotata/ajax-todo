@@ -11,7 +11,7 @@
   <% @mailers.each do |mail| %>
   <div class="row">
     <div class="col-3">
-    <h5> <%= mail.object %> </h5>
+    <h5 > <%= mail.object %> </h5>
     </div>
     <div class="col-6">
     <p> <%= mail.body %></p>
@@ -41,3 +41,18 @@ hr {
   margin: 10px;
 }
 </style>
+</script>  <script>
+  var footerClick = document.getElementsByClassName("row");
+  function card (){
+  for (let d=0; d < footerClick.length; d++)
+  {
+  footerClick[d].addEventListener("click", function() {
+   $(footerClick[d]).css({
+   'margin': '10px',
+   'font': '14pt Arial',
+   'background-color': 'SkyBlue'
+ })
+ });
+}}
+card();
+</script>
