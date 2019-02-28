@@ -17,10 +17,8 @@ LASSO est là pour toi, qui a envie de donner de ton temps et de ta motivation p
 
 Une plateforme dédiée a celles et ceux qui oeuvrent pour les autres. Les associations n’ont pas les ressources, temps et argent confondus, pour la construction et la maintenance d’un véritable site et surement pas assez pour rincer google et atterrir en page 1 des recherches. On propose donc un mini-site, une sorte de vitrine. Ici, chaque asso aura la meme visibilité peu importe sa taille , avec les infos principales, les contacts et tout ce qu’il y a a savoir!
 
-Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi! Rejoins-nous 
 
-
-### Features (*)
+### Features
 
 
 Voici les features que nous comptons développer au cours de ce projet:
@@ -34,3 +32,4 @@ Voici les features que nous comptons développer au cours de ce projet:
 * Enfin, on compte implanter l’API Google pour pouvoir repérer le lieu et le périmètre d’action de l’asso.
 
 
+Rejoins-nous !
