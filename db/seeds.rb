@@ -11,3 +11,6 @@ Task.destroy_all
 10.times do
 	Task.create(title: Faker::Book.title, status: false)
 end
+10.times do
+	Mailer.create(object: Faker::Book.title, body: Faker::ChuckNorris.fact)
+end

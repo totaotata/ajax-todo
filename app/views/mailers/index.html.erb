@@ -1,0 +1,43 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+<center>
+<div class="container"style="border: 1px solid grey;">
+  <div class="row">
+  <div class="col-3" ><h3>Object</h3></div>
+  <div class="col-7"><h3>Body</h3></div>
+  </div>
+  <hr>
+  <% @mailers.each do |mail| %>
+  <div class="row">
+    <div class="col-3">
+    <h5> <%= mail.object %> </h5>
+    </div>
+    <div class="col-6">
+    <p> <%= mail.body %></p>
+    </div>
+    <div class="col-1">
+      <%= link_to "X", mailer_path(mail.id), method: :delete, class:"btn btn-link", style:"color: red;"%>
+    </div>
+    <div class="col-1"
+    <div class="checkbox">
+  <label><input type="checkbox" data-toggle="toggle" data-toggle="toggle-on"></label>
+    </div>
+    </div>
+  <hr>
+  <% end %>
+  </div>
+</center>
+<style>
+.col-3 {
+border-right: 1px solid grey;
+}
+hr {
+  line-height: 3px;
+  color: grey;
+}
+.body {
+  text-align: center;
+  margin: 10px;
+}
+</style>
