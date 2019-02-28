@@ -1,3 +1,9 @@
+Projet réalisé par :
+-Marion Audren
+-Maxime Pouzol
+-Thomas Le Vot
+
+
 
 ![190228031859451908.png](https://nsa40.casimages.com/img/2019/02/28/190228031859451908.png)
 
