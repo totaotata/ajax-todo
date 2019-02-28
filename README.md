@@ -20,10 +20,17 @@ Une plateforme dédiée a celles et ceux qui oeuvrent pour les autres. Les assoc
 Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi! Rejoins-nous 
 
 
-### Features
+### Features (*)
 
 
 Voici les features que nous comptons développer au cours de ce projet:
-En priorité nous allons construire une base de donnée solide, capable d’accueillir un nombre important d’associations. On va travailler sur le moteur de recherche pour qu’il soit capable de supporter des recherches avancées. L’utilisateur pourra aussi être administrateur lorsqu’il s’agit de sa page. On va construire une page où seront rassemblées les news et events des assos. Il faut également que les utilisateurs puissent entrer en contact avec les associations représentées, et éventuellement envoyer des messages groupés. Enfin, on compte implanter l’API Google pour pouvoir repérer le lieu et le périmètre d’action de l’asso.
+
+* En priorité nous allons construire une base de donnée solide, capable d’accueillir un nombre important d’associations. On va travailler sur le moteur de recherche pour qu’il soit capable de supporter des recherches avancées. L’utilisateur pourra aussi être administrateur lorsqu’il s’agit de sa page.
+
+* On va construire une page où seront rassemblées les news et events des assos. 
+
+* Il faut également que les utilisateurs puissent entrer en contact avec les associations représentées, et éventuellement envoyer des messages groupés. 
+
+* Enfin, on compte implanter l’API Google pour pouvoir repérer le lieu et le périmètre d’action de l’asso.
 
 
