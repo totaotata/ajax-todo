@@ -1,6 +1,10 @@
 
 ![190228023842648422.png](https://nsa40.casimages.com/img/2019/02/28//190228023842648422.png)
 
+### Résumé 
+
+Lasso est une plateforme qui en augmentant la visibilité des associations facilite la rencontre entre les acteurs du milieu associatif.
+
 
 ### Context
 
@@ -31,4 +35,8 @@ Voici les features que nous comptons développer au cours de ce projet:
 
 * Enfin, on compte implanter l’API Google pour pouvoir repérer le lieu et le périmètre d’action de l’asso.
 
-Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi! 
+Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi!
+
+### Pourquoi nous rejoindre ?
+
+Si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi, alors rejoins-nous !
