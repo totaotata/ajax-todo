@@ -19,7 +19,7 @@ LASSO est là pour toi, qui a envie de donner de ton temps et de ta motivation p
 ### Le Concept
 
 
-Une plateforme dédiée à celles et ceux qui oeuvrent pour les autres. Les associations n’ont pas les ressources, temps et argent confondus, pour la construction et la maintenance d’un véritable site et surement pas assez pour rincer google et atterrir en page 1 des recherches. On propose donc un mini-site, une sorte de vitrine. Ici, chaque asso aura la meme visibilité peu importe sa taille, avec les infos principales, les contacts et tout ce qu’il y a a savoir !
+Une plateforme dédiée à celles et ceux qui oeuvrent pour les autres. Les associations n’ont pas les ressources, temps et argent confondus, pour la construction et la maintenance d’un véritable site et surement pas assez pour rincer google et atterrir en page 1 des recherches. On propose donc un mini-site, une véritable vitrine. Ici, chaque asso aura la même visibilité peu importe sa taille, avec les infos principales, les contacts et le tout avec une interface intuitive !
 
 
 ### Features
