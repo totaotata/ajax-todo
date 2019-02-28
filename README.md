@@ -32,4 +32,5 @@ Voici les features que nous comptons développer au cours de ce projet:
 * Enfin, on compte implanter l’API Google pour pouvoir repérer le lieu et le périmètre d’action de l’asso.
 
 
-Rejoins-nous !
+
+Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi! Rejoins-nous 
