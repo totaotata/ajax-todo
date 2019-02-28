@@ -1,7 +1,13 @@
 Projet réalisé par :
--Marion Audren
--Maxime Pouzol
--Thomas Le Vot
+
+
+Marion Audren
+
+
+Maxime Pouzol
+
+
+Thomas Le Vot
 
 
 
