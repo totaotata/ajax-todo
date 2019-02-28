@@ -23,14 +23,12 @@ Une plateforme dédiée a celles et ceux qui oeuvrent pour les autres. Les assoc
 
 Voici les features que nous comptons développer au cours de ce projet:
 
-* En priorité nous allons construire une base de donnée solide, capable d’accueillir un nombre important d’associations. On va travailler sur le moteur de recherche pour qu’il soit capable de supporter des recherches avancées. L’utilisateur pourra aussi être administrateur lorsqu’il s’agit de sa page.
+* En priorité nous allons construire une base de données solide, capable d’accueillir un nombre important d’associations. On va mettre en place un moteur de recherche capable de supporter des recherches avancées. L’utilisateur pourra aussi être administrateur lorsqu’il s’agit de sa page.
 
-* On va construire une page où seront rassemblées les news et events des assos. 
+* On va construire une feature permettant aux assos de publier des news et events que les utilistateurs pourront retrouver sur la page de l'asso.
 
-* Il faut également que les utilisateurs puissent entrer en contact avec les associations représentées, et éventuellement envoyer des messages groupés. 
+* Il faut également que les utilisateurs puissent entrer en contact avec les associations représentées (messagerie privée interne) et si nous avons le temps une fonctionnalité d'envoi de messages groupés.
 
 * Enfin, on compte implanter l’API Google pour pouvoir repérer le lieu et le périmètre d’action de l’asso.
 
-
-
-Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi! Rejoins-nous 
+Alors si toi aussi comme Nekfeu tu ne les as pas cru quand ils te disaient que toutes les causes étaient vaines (cf Reve d’avoir des rêves ) cette plateforme est faite pour toi! 
